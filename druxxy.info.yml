@@ -103,7 +103,6 @@ dependencies:
   - views_ui
   - webform
   - webform_ui
-  - webp
 
 themes:
   - claro
