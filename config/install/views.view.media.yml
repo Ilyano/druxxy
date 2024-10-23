@@ -5,7 +5,6 @@ dependencies:
     - image.style.thumbnail
   module:
     - media
-    - svg_image
     - user
 id: media
 label: Media

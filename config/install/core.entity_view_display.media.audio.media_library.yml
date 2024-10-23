@@ -6,8 +6,6 @@ dependencies:
     - field.field.media.audio.field_media_audio_file
     - image.style.thumbnail
     - media.type.audio
-  module:
-    - svg_image
 id: media.audio.media_library
 targetEntityType: media
 bundle: audio

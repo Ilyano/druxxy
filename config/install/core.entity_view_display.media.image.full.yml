@@ -7,7 +7,6 @@ dependencies:
     - media.type.image
   module:
     - layout_discovery
-    - svg_image
 third_party_settings:
   field_layout:
     id: layout_onecol

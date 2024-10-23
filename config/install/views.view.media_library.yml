@@ -10,7 +10,6 @@ dependencies:
   module:
     - media
     - media_library
-    - svg_image
     - user
 id: media_library
 label: 'Media library'

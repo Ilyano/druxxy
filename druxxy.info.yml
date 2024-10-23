@@ -79,8 +79,6 @@ dependencies:
   - shortcut
   - sophron
   - sophron_guesser
-  - svg_image
-  - svg_image_responsive
   - symfony_mailer
   - system
   - taxonomy
